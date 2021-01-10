@@ -6,6 +6,8 @@ Pipeline to reproduce a single 0.808/0.810 run
 
 Group pickle file: https://www.kaggle.com/shujun717/rid-group-w-lag-time
 
+Tag cluster file: https://www.kaggle.com/shujun717/rid-tag-community
+
 ## Architecture
 
 I use the transformer encoder only SERT (SIngle-directional Encoder Representation from Transformers), to make predictions just one linear layer after the last encoder layer. This is probably a mistake
