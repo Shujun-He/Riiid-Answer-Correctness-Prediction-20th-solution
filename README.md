@@ -10,7 +10,7 @@ Tag cluster file: https://www.kaggle.com/shujun717/rid-tag-community
 
 ## Architecture
 
-I use the transformer encoder only SERT (SIngle-directional Encoder Representation from Transformers), to make predictions just one linear layer after the last encoder layer. This is probably a mistake
+I use the transformer encoder only SERT (SIngle-directional Encoder Representation from Transformers), to make predictions just one linear layer after the last encoder layer.
 
 ## Embeddings
 
